@@ -1,0 +1,36 @@
+{
+  "name": "@vinasig/org-directory",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Public VINASIG organization account references and directory validation",
+  "license": "UNLICENSED",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINASIG/vinasig-org-directory.git"
+  },
+  "engines": {
+    "node": ">=24.21.0 <25",
+    "npm": "12.2.0"
+  },
+  "packageManager": "npm@12.2.0",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint scripts tests --max-warnings 0",
+    "format:check": "prettier --check .",
+    "directory:generate": "node scripts/directory.ts --write",
+    "check:directory": "node scripts/directory.ts",
+    "check:standards": "node scripts/check-standards.ts",
+    "check": "npm run typecheck && npm run lint && npm run format:check && npm run check:directory && npm run check:standards",
+    "test": "node --test tests/*.test.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@types/node": "24.19.1",
+    "ajv": "8.20.0",
+    "eslint": "10.11.0",
+    "prettier": "3.9.9",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.71.0"
+  }
+}

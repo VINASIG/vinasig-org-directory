@@ -1,0 +1,350 @@
+{
+  "$schema": "./directory.schema.json",
+  "format": 1,
+  "organization": "VINASIG",
+  "inventoryDate": "2026-09-27",
+  "updatedOn": "2026-10-03",
+  "verification": "not-independently-verified",
+  "entries": [
+    {
+      "id": "github",
+      "category": "organization",
+      "platform": "GitHub Organization",
+      "identifier": "VINASIG",
+      "url": "https://github.com/VINASIG",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "website",
+      "category": "organization",
+      "platform": "Website",
+      "identifier": "vinasig.io.vn",
+      "url": "https://vinasig.io.vn",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "outlook",
+      "category": "contact",
+      "platform": "Outlook",
+      "identifier": "vinasig",
+      "url": null,
+      "email": "vinasig@outlook.com.vn",
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "gmail",
+      "category": "contact",
+      "platform": "Gmail",
+      "identifier": "vinasig.io.vn",
+      "url": null,
+      "email": "vinasig.io.vn@gmail.com",
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "proton",
+      "category": "contact",
+      "platform": "Proton Mail",
+      "identifier": "vinasig",
+      "url": null,
+      "email": "vinasig@proton.me",
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "yahoo",
+      "category": "contact",
+      "platform": "Yahoo",
+      "identifier": "@vinasig",
+      "url": null,
+      "email": null,
+      "status": "incomplete",
+      "notes": "A public Yahoo profile URL or Yahoo contact address has not been supplied. The supplied handle is retained."
+    },
+    {
+      "id": "facebook",
+      "category": "social",
+      "platform": "Facebook",
+      "identifier": "vinasig.io.vn",
+      "url": "https://www.facebook.com/vinasig.io.vn",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "instagram",
+      "category": "social",
+      "platform": "Instagram",
+      "identifier": "vinasig.io.vn",
+      "url": "https://www.instagram.com/vinasig.io.vn",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "tiktok",
+      "category": "social",
+      "platform": "TikTok",
+      "identifier": "@vinasig",
+      "url": "https://www.tiktok.com/@vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "youtube",
+      "category": "social",
+      "platform": "YouTube",
+      "identifier": "@vinasig.project",
+      "url": "https://www.youtube.com/@vinasig.project",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "x",
+      "category": "social",
+      "platform": "X",
+      "identifier": "@VINASIGProject",
+      "url": "https://x.com/VINASIGProject",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "linkedin",
+      "category": "social",
+      "platform": "LinkedIn",
+      "identifier": "vinasig",
+      "url": "https://www.linkedin.com/in/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": "The supplied URL is a member profile. No company page is inferred."
+    },
+    {
+      "id": "pinterest",
+      "category": "social",
+      "platform": "Pinterest",
+      "identifier": "vinasig",
+      "url": "https://www.pinterest.com/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "discord",
+      "category": "social",
+      "platform": "Discord",
+      "identifier": "Invite code DJk4M3xKYb",
+      "url": "https://discord.gg/DJk4M3xKYb",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "telegram",
+      "category": "social",
+      "platform": "Telegram",
+      "identifier": "@vinasig",
+      "url": "https://t.me/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "reddit",
+      "category": "social",
+      "platform": "Reddit",
+      "identifier": "VINASIG",
+      "url": "https://www.reddit.com/user/VINASIG/",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "medium",
+      "category": "social",
+      "platform": "Medium",
+      "identifier": "@VINASIG",
+      "url": "https://medium.com/@VINASIG",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "substack",
+      "category": "social",
+      "platform": "Substack",
+      "identifier": "@vinasig",
+      "url": "https://substack.com/@vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "product-hunt",
+      "category": "social",
+      "platform": "Product Hunt",
+      "identifier": "@vinasig",
+      "url": "https://www.producthunt.com/@vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "twitch",
+      "category": "social",
+      "platform": "Twitch",
+      "identifier": "vinasigproject",
+      "url": "https://www.twitch.tv/vinasigproject",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "bluesky",
+      "category": "social",
+      "platform": "Bluesky",
+      "identifier": "vinasig.bsky.social",
+      "url": "https://bsky.app/profile/vinasig.bsky.social",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "gitlab",
+      "category": "developer",
+      "platform": "GitLab",
+      "identifier": "VINASIG",
+      "url": "https://gitlab.com/VINASIG",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "codeberg",
+      "category": "developer",
+      "platform": "Codeberg",
+      "identifier": "VINASIG",
+      "url": "https://codeberg.org/VINASIG",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "stack-overflow",
+      "category": "developer",
+      "platform": "Stack Overflow",
+      "identifier": "vinasig (user ID 33163590)",
+      "url": "https://stackoverflow.com/users/33163590/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "behance",
+      "category": "developer",
+      "platform": "Behance",
+      "identifier": "projectvinasig",
+      "url": "https://www.behance.net/projectvinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "dribbble",
+      "category": "developer",
+      "platform": "Dribbble",
+      "identifier": "vinasig",
+      "url": "https://dribbble.com/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "dev-to",
+      "category": "developer",
+      "platform": "dev.to",
+      "identifier": "vinasig",
+      "url": "https://dev.to/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "hashnode",
+      "category": "developer",
+      "platform": "Hashnode",
+      "identifier": "@vinasig",
+      "url": "https://hashnode.com/@vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "npm",
+      "category": "developer",
+      "platform": "npm",
+      "identifier": "@vinasig",
+      "url": "https://www.npmjs.com/~vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": "The supplied URL is a user profile. No npm organization URL is inferred."
+    },
+    {
+      "id": "gravatar",
+      "category": "developer",
+      "platform": "Gravatar",
+      "identifier": "secretlyking39b4ef90b9",
+      "url": "https://gravatar.com/secretlyking39b4ef90b9",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "pypi",
+      "category": "developer",
+      "platform": "PyPI",
+      "identifier": "vinasig",
+      "url": "https://pypi.org/user/vinasig/",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "hugging-face",
+      "category": "developer",
+      "platform": "Hugging Face",
+      "identifier": "vinasig",
+      "url": "https://huggingface.co/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "docker-hub",
+      "category": "developer",
+      "platform": "Docker Hub",
+      "identifier": "vinasig",
+      "url": "https://hub.docker.com/u/vinasig",
+      "email": null,
+      "status": "listed",
+      "notes": null
+    },
+    {
+      "id": "packagist",
+      "category": "developer",
+      "platform": "Packagist",
+      "identifier": null,
+      "url": null,
+      "email": null,
+      "status": "incomplete",
+      "notes": "No profile identifier or account URL has been supplied. The generic /profile/ endpoint is not an account link."
+    }
+  ]
+}
