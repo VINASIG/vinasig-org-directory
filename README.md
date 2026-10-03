@@ -56,3 +56,9 @@ The repository has no web application. Its checks validate the data, generated d
 - [Brand Assets](https://github.com/VINASIG/vinasig-brand-assets) preserves the identity assets and typography.
 
 See [CHANGELOG.md](CHANGELOG.md) for directory changes.
+
+## License scopes
+
+The directory database uses **ODbL-1.0**. Local tooling uses **GPL-3.0-or-later**. Authored documentation uses **CC-BY-SA-4.0**. Commercial use is allowed under those standard licenses. Fonts and third-party components retain their original terms. Official VINASIG identity assets follow the separate brand policy.
+
+Read [LICENSE](LICENSE), [LICENSES.md](LICENSES.md), [VINASIG Brand Usage Policy](BRAND_POLICY.md) and [the licensing review](docs/audits/licensing-2026-10-04.md) for exact scopes, rationale and remaining review.

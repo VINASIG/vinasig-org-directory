@@ -7,6 +7,8 @@ This maintainer-supplied directory contains 34 entries: 32 listed public channel
 
 Use [directory.json](directory.json) for structured data and [the data contract](docs/data-model.md) for update rules. Public contact addresses are contact channels; they are not account access instructions.
 
+This VINASIG directory database is available under the [Open Database License 1.0](LICENSE). Preserve attribution and applicable share-alike terms. Individual facts and third-party marks keep their independent rights. Read [LICENSES.md](LICENSES.md) for the database, documentation and tooling scopes.
+
 ## Organization and website
 
 | Platform | Identifier | Public channel | Status and notes |

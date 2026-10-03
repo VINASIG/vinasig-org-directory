@@ -16,7 +16,7 @@ Official registry and release metadata were checked on 3 October 2026. Consumers
 
 Sources: [Node.js release index](https://nodejs.org/dist/index.json), official npm metadata for [npm](https://registry.npmjs.org/npm/latest), [TypeScript](https://registry.npmjs.org/typescript/latest), [typescript-eslint](https://registry.npmjs.org/typescript-eslint/latest), [ESLint](https://registry.npmjs.org/eslint/latest), [@eslint/js](https://registry.npmjs.org/@eslint/js/latest), [Node types](https://registry.npmjs.org/@types/node), [Prettier](https://registry.npmjs.org/prettier/latest) and [Ajv](https://registry.npmjs.org/ajv/latest). The [Ajv schema guide](https://ajv.js.org/json-schema.html) documents its draft 2020-12 class.
 
-The toolchain uses strict type checking, unchecked-index protection, exact optional properties and typed lint with zero warnings. All development dependencies use exact versions and a committed lockfile. The package is private tooling; publication of the repository does not publish an npm package or add a general license.
+The toolchain uses strict type checking, unchecked-index protection, exact optional properties and typed lint with zero warnings. All development dependencies use exact versions and a committed lockfile. The package is private tooling and is not published to npm. The owner selected GPL-3.0-or-later for these tools, ODbL-1.0 for the directory database and CC-BY-SA-4.0 for authored documentation. See [the material map](../LICENSES.md).
 
 Local verification reuses the available project-local Node 24.21.0 runtime that was checked against the official archive checksum during the preceding VINASIG publication work. Global tooling settings are unchanged. npm is explicitly bootstrapped with `npx --yes npm@12.2.0`.
 

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Public VINASIG organization account references and directory validation",
-  "license": "UNLICENSED",
+  "license": "GPL-3.0-or-later",
   "type": "module",
   "repository": {
     "type": "git",
@@ -21,8 +21,9 @@
     "directory:generate": "node scripts/directory.ts --write",
     "check:directory": "node scripts/directory.ts",
     "check:standards": "node scripts/check-standards.ts",
-    "check": "npm run typecheck && npm run lint && npm run format:check && npm run check:directory && npm run check:standards",
-    "test": "node --test tests/*.test.ts"
+    "check": "npm run typecheck && npm run lint && npm run format:check && npm run check:directory && npm run check:standards && npm run check:licenses",
+    "test": "node --test tests/*.test.ts",
+    "check:licenses": "node .vinasig/standards/templates/check-licenses.mjs"
   },
   "devDependencies": {
     "@eslint/js": "10.0.1",

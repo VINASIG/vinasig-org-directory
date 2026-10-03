@@ -25,3 +25,7 @@ Add relevant positive and failure cases when changing validation or rendering. N
 Keep temporary reports, bundles, fixtures and installer backups in ignored `output/` or the existing ignored backup location. Review the staged diff before an authorized commit; push the current branch and verify that commit's CI. Repository publication and external account changes follow the user's explicit task authorization.
 
 Ordinary corrections go through [repository issues](https://github.com/VINASIG/vinasig-org-directory/issues). Sensitive findings follow [SECURITY.md](SECURITY.md).
+
+## Contribution licensing
+
+Read [LICENSES.md](LICENSES.md) before submitting material. New contributions use the applicable software, documentation or data scope unless a different compatible license is explicitly identified and accepted. Preserve authorship and third-party notices. Submit only material you have authority to license. This does not require a blanket copyright assignment or grant permission to redesign the official identity assets.

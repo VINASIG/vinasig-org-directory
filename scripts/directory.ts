@@ -187,6 +187,8 @@ export function renderDirectory(directory: Directory): string {
     `This maintainer-supplied directory contains ${String(directory.entries.length)} entries: ${String(listed)} listed public channels and ${String(directory.entries.length - listed)} incomplete references. Listing does not independently verify account ownership, availability or mailbox deliverability.`,
     "",
     "Use [directory.json](directory.json) for structured data and [the data contract](docs/data-model.md) for update rules. Public contact addresses are contact channels; they are not account access instructions.",
+    "",
+    "This VINASIG directory database is available under the [Open Database License 1.0](LICENSE). Preserve attribution and applicable share-alike terms. Individual facts and third-party marks keep their independent rights. Read [LICENSES.md](LICENSES.md) for the database, documentation and tooling scopes.",
   ];
   for (const [category, heading] of Object.entries(categories)) {
     const entries = directory.entries.filter(
