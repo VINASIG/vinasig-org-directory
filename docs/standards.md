@@ -5,9 +5,9 @@ This documentation and directory-tooling repository adopts the `core` profile fr
 | Field             | Reviewed value                                                     |
 | ----------------- | ------------------------------------------------------------------ |
 | Source repository | `VINASIG/agent-standards`                                          |
-| Source commit     | `76901601b193c963b849b253d11f51363b447ffe`                         |
+| Source commit     | `7c699d1dccd05c1dd2c4f0de4bb3abae23174ccd`                         |
 | Profile           | `core`                                                             |
-| Bundle SHA-256    | `bb555aad2e5c66da8ba2cdd5530446ca95c1235bb28706cb82066222adcb61f1` |
+| Bundle SHA-256    | `bd59e07ba80969e9e5b6788a9438e81ba14a6e22ce121e6ef192ef89f54cd07f` |
 | Owner provenance  | [.vinasig/provenance.json](../.vinasig/provenance.json)            |
 | Managed file map  | [.vinasig/manifest.json](../.vinasig/manifest.json)                |
 
@@ -26,3 +26,9 @@ Responsive, animation, SEO and browser-flow audits are `NOT_APPLICABLE` here bec
 ## Interface rules approved on 3 October 2026
 
 The owner requested this standards update across VINASIG. LANG-004 requires natural punctuation, sentence case and custom list markers in authored interfaces. LANG-005 requires ordinary-reader language and limits parenthetical labels. Required code, URLs, times, regulatory identifiers, official names and user input retain their correct syntax.
+
+## Header rules approved on 4 October 2026
+
+The owner approved original transparent horizontal logos selected for the actual header surface under WEB-001. Keep the source asset bytes, proportions and internal artwork. Avoid white panels, padded or rounded cards and artwork effects. Maintain the accessible logo link and its usable target independently of image size.
+
+This repository has no website header. Its core profile remains appropriate. The source guidance is updated for consuming websites without inventing a browser audit or changing archived asset bytes or directory data.
