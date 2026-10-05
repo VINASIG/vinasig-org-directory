@@ -63,7 +63,7 @@ await test("the current 34-entry inventory, generated document and core snapshot
   assert.equal(report.contactEmails, 3);
   assert.deepEqual(report.incomplete, ["yahoo", "packagist"]);
   const standards = await verifyStandards();
-  assert.equal(standards.files, 27);
+  assert.equal(standards.files, 28);
   for (const file of [
     "LICENSE",
     "LICENSES.md",
